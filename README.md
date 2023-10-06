@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harivamsi9
+- 👋 Hi, I’m Hari Vamsi Yadavalli
 - 👀 I’m interested in Software Engineering, Machine Learning and Data Science internship roles. Open for both Remote and USA locations.
 - 🌱 I’m currently learning Computer Science at UC San Diego
 - 💞️ I’m looking to collaborate on Open Source Projects, and any fasinating ideas
