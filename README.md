@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hari => 🚀 Software Engineer | 💻 Open Source Contributor | 📝 Blogger | 🌟 Passionate Learner
+- 👋 Hi, I’m Hari, a 🚀 Software Engineer | 💻 Open Source Contributor | 📝 Blogger | 🌟 Passionate Learner
 - 👀 Seeking Software Engineering, Machine Learning, and Quant Full Time roles. Open for USA, Canada, and Remote locations
 - 🌱 I graduated with Computer Science Master's from UC San Diego 🧸
 - 💞️ I’m looking to collaborate on Open Source Projects, and any fasinating ideas
