@@ -6,10 +6,10 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivamsi9&show_icons=true&theme=radical)
 
 ### 💻 Languages:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harivamsi9&layout=compact)
 
 
 <!---
